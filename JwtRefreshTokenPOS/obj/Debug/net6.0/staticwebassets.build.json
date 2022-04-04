@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hovo+cSuJ0/zEFiHgSO7jvd8daOzpEAVEbWmSLW2fXY=",
+  "Source": "JwtRefreshTokenPOS",
+  "BasePath": "_content/JwtRefreshTokenPOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
